@@ -1,0 +1,7 @@
+C:\Users\Awire\source\repos\JunkGenerator\JunkGenerator\obj\Debug\JunkGenerator.csproj.AssemblyReference.cache
+C:\Users\Awire\source\repos\JunkGenerator\JunkGenerator\obj\Debug\JunkGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Awire\source\repos\JunkGenerator\JunkGenerator\bin\Debug\JunkGenerator.exe.config
+C:\Users\Awire\source\repos\JunkGenerator\JunkGenerator\bin\Debug\JunkGenerator.exe
+C:\Users\Awire\source\repos\JunkGenerator\JunkGenerator\bin\Debug\JunkGenerator.pdb
+C:\Users\Awire\source\repos\JunkGenerator\JunkGenerator\obj\Debug\JunkGenerator.exe
+C:\Users\Awire\source\repos\JunkGenerator\JunkGenerator\obj\Debug\JunkGenerator.pdb
